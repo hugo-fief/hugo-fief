@@ -25,4 +25,6 @@ et je suis aussi en 4ème année de Master Développement Informatique à l'IPSS
 
 ### ⭐ Statistiques GitHub :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoWinterGhost&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoWinterGhost&hide=stars,issues&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoWinterGhost&layout=compact&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
