@@ -6,19 +6,17 @@ et je suis aussi en 4ème année de Master Développement Informatique à l'IPSS
 
 [![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)
 [![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
-&nbsp;&nbsp;
+
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
 
-### Languages and Tools:
+### Langages et Outils :
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[languageplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][languageplaylist]
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][languageplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][languageplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[languageplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][languageplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][languageplaylist]
 [<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />][languageplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][languageplaylist]
