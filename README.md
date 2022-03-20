@@ -29,4 +29,4 @@ et je suis aussi en 4ème année de Master Développement Informatique à l'IPSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoWinterGhost&layout=compact&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HugoWinterGhost&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HugoWinterGhost&theme=dark&border=0c1a25)](https://github.com/DenverCoder1/github-readme-streak-stats)
