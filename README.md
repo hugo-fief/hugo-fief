@@ -6,7 +6,6 @@ et je suis aussi en 4ème année de Master Développement Informatique à l'IPSS
 
 [![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)
 [![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
-
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
 
