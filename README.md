@@ -4,10 +4,18 @@ et je suis aussi en 4ème année de Master Développement Informatique à l'IPSS
 
 ### Me contacter :
 
-[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)
-[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
+[![img_contact](./img/globe-light.svg#gh-light-mode-only)](https://portfolio-hugo-pro.000webhostapp.com)
+[![img_contact](./img/globe-dark.svg#gh-dark-mode-only)](https://portfolio-hugo-pro.000webhostapp.com)
+[![img_contact](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
+[![img_contact](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/hugo-fief-60a4a2162)
+
+### Autres :
+
+[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief-60a4a2162#gh-dark-mode-only)
 
 ### Langages et Outils :
 
