@@ -1,6 +1,6 @@
 # Hugo Fief
-Je m'appelle Hugo, j'ai 22 ans et je suis actuellement Développeur Full Stack au sein de dcube en alternance, 
-et je suis aussi en 4ème année de Master Développement Informatique à l'IPSSI, je fais du dev depuis que j'ai 17 ans 😀.
+Je m'appelle Hugo, j'ai 22 ans et je suis actuellement Développeur Python au sein de Brainwave en alternance, 
+et je suis aussi en 5ème année de Master Dev, BigData et IA à l'IPSSI, je fais du dev depuis que j'ai 17 ans 😀.
 
 ### Me contacter :
 
