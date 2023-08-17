@@ -26,6 +26,6 @@ et je suis aussi en 5ème année de Master Dev, BigData et IA à l'IPSSI, je fai
 ### ⭐ Statistiques GitHub :
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoWinterGhost\&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/HugoWinterGhost?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoWinterGhost&layout=compact&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/HugoWinterGhost?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoWinterGhost&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/HugoWinterGhost?tab=repositories)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HugoWinterGhost&theme=dark&border=0c1a25&background=09131B)](https://github.com/DenverCoder1/github-readme-streak-stats)
