@@ -4,11 +4,11 @@ et je suis aussi en 5ème année de Master Dev, BigData et IA à l'IPSSI, je fai
 
 ### Me contacter :
 
-[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)
+[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief)
 
 ### Langages et Outils :
 
@@ -25,7 +25,7 @@ et je suis aussi en 5ème année de Master Dev, BigData et IA à l'IPSSI, je fai
 
 ### ⭐ Statistiques GitHub :
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoWinterGhost\&show_icons=true&hide=stars,issues&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/HugoWinterGhost?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoWinterGhost\&show_icons=true&layout=compact&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/HugoWinterGhost?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugo-fief\&show_icons=true&hide=stars,issues&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/hugo-fief?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-fief\&show_icons=true&layout=compact&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/hugo-fief?tab=repositories)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HugoWinterGhost&theme=dark&border=0c1a25&background=09131B)](https://github.com/HugoWinterGhost?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugo-fief&theme=dark&border=0c1a25&background=09131B)](https://github.com/hugo-fief?tab=repositories)
