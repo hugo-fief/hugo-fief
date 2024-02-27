@@ -4,9 +4,11 @@ après avoir effectué 4 ans d'alternances, à la recherche de mon premier de CD
 
 ### Me contacter :
 
-[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
+[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)
+[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief)[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief)
 
 ### Langages et Outils :
 
