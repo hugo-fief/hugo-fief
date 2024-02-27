@@ -1,6 +1,6 @@
 # Hugo Fief
-Je m'appelle Hugo, j'ai 23 ans et je suis actuellement Développeur Python au sein de Brainwave en alternance, 
-et je suis aussi en 5ème année de Master Dev, BigData et IA à l'IPSSI, je fais du dev depuis que j'ai 17 ans 😀.
+Je m'appelle Hugo, j'ai 23 ans et je suis actuellement Développeur Full Stack, diplomé de l'école d'informatique IPSSI, 
+après avoir effectué 4 ans d'alternances, à la recherche de mon premier de CDI de Développeur dans le domaine du Web 😀.
 
 ### Me contacter :
 
