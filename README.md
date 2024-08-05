@@ -1,11 +1,11 @@
 # Hugo Fief
-Je m'appelle Hugo, j'ai 23 ans et je suis actuellement Développeur Full Stack, diplômé de l'école d'informatique IPSSI, 
-après avoir effectué 4 ans d'alternances, à la recherche de mon premier de CDI de Développeur dans le domaine du Web 😀.
+Je m'appelle Hugo, j'ai 24 ans et je suis actuellement Développeur Full Stack, diplômé de l'école d'informatique IPSSI, 
+après avoir effectué 4 ans d'alternances, à la recherche de mon premier de CDI de Développeur 😀.
 
 ### Me contacter :
 
-[![img_contact](./img/globe-light.svg)](https://portfolio-hugo-pro.000webhostapp.com)
-[![img_contact](./img/globe-dark.svg)](https://portfolio-hugo-pro.000webhostapp.com)
+[![img_contact](./img/globe-light.svg)](https://hugo-fief-pro.fr)
+[![img_contact](./img/globe-dark.svg)](https://hugo-fief-pro.fr)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/hugo-fief)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hugo-fief)
