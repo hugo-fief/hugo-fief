@@ -1,6 +1,6 @@
 # Hugo Fief
-Je m'appelle Hugo, j'ai 24 ans et je suis actuellement Développeur Full Stack, diplômé de l'école d'informatique IPSSI, 
-après avoir effectué 4 ans d'alternances, à la recherche de mon premier de CDI de Développeur 😀.
+Je m'appelle Hugo, j'ai 25 ans et je suis actuellement Ingénieur Logiciel Java depuis 1 an au sein de Trapil, et également diplômé de l'école d'informatique IPSSI, 
+après avoir effectué 4 ans d'alternances😀.
 
 ### Me contacter :
 
